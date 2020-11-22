@@ -48,7 +48,6 @@ const Formulario = ({ crearCita }) => {
 
     //Crear la Cita
     crearCita(cita);
-    alert("Cita Guardada");
 
     //Reiniciar Form
     actualizarCita({
